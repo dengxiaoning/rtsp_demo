@@ -33,10 +33,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <table>
   <tr>
     <td>
-        <center><img src="./src/images/previewone.png" ></center>
+        <center><img src="./src/assets/images/previewone.png" ></center>
     </td>
         <td>
-        <center><img src="./src/images/previetwo.png" ></center>
+        <center><img src="./src/assets/images/previetwo.png" ></center>
     </td>
   </tr>
 </table>
