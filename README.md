@@ -39,4 +39,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
         <center><img src="./src/assets/images/previewtwo.png" ></center>
     </td>
   </tr>
+    <tr>
+    <td>
+        <center><img src="./src/assets/images/previewthree.png" ></center>
+    </td>
+        <td>
+        <center><img src="./src/assets/images/previewfour.png" ></center>
+    </td>
+  </tr>
 </table>
