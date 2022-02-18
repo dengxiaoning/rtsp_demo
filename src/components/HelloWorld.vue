@@ -34,6 +34,9 @@ export default {
   },
   methods: {
     playVideo() {
+      // rtsp://218.204.223.237:554/live/1/0547424F573B085C/gsfp90ef4k0a6iap.sdp
+      // rtsp://218.204.223.237:554/live/1/66251FC11353191F/e7ooqwcfbqjoo80j.sdp
+      //  rtsp://211.139.194.251:554/live/2/13E6330A31193128/5iLd2iNl5nQ2s8r8.sdp
       // 设置url 播放
       window.vxgplayer('vxg_media_player1').stop();
       window.vxgplayer('vxg_media_player1').src("rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov");
